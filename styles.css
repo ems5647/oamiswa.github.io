@@ -4,7 +4,7 @@
 .title {
     color:#ffffff;
     font-family: 'Black And White Picture', sans-serif;
-    font-size: 150px;
+    font-size: 200px;
     text-align:center;
 }
 .title2{
@@ -22,7 +22,6 @@ p{
     padding-left:50px;
     padding-right:50px;
 }
-}
 a:link{
     color:#ffffff;
 }
@@ -30,11 +29,11 @@ a:visited{
     color:#ffffff;
 }
 a:hover{
-    color:#a6a6a6;
+    color:#ffffff;
 }
 .nav{
-    font-family: 'Libre Baskerville', serif;
-    font-size:48px;
+    font-family: 'Black And White Picture', sans-serif;
+    font-size:75px;
     text-align:center;
     margin-bottom:30px;
 }
